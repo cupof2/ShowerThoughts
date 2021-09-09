@@ -1,2 +1,2 @@
 # ShowerThoughts
-A database of ShowerThoughts from r/ShowerThoughts
+A collection of ShowerThoughts from r/ShowerThoughts
